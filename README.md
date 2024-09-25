@@ -8,13 +8,6 @@ One of the first graphical projects at 42 school, fract-ol generates beautiful f
 
 ![Fract-ol mono-colored Mandelbrot by mcombeau](https://github.com/revolveR99/Math-Fract_ol/blob/main/screenshots/Fractol-Mandelbrot.png)
 
-
-# Status
-
-Finished: 22/04/2022.
-
-Grade: 125%.
-
 # Usage
 
 ---
