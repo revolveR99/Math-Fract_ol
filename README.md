@@ -1,12 +1,12 @@
 # fract-ol
 
 <p align="center">
-  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png" alt="Fract'ol fract-ol 42 project badge"/>
+
 </p>
 
 One of the first graphical projects at 42 school, fract-ol generates beautiful fractals from the complex numbers of an iterative mathematical construct. A fractal is a fragmented geometrical figure that infinitely repeats itself at smaller scales. This project uses the school's graphical library, MiniLibX.
 
-![Fract-ol mono-colored Mandelbrot by mcombeau](https://github.com/mcombeau/fract-ol/blob/main/screenshots/Fractol-Mandelbrot.png)
+![Fract-ol mono-colored Mandelbrot by mcombeau](https://github.com/revolveR99/Math-Fract_ol/blob/main/screenshots/Fractol-Mandelbrot.png)
 
 
 # Status
@@ -83,8 +83,8 @@ While Fractol is running, the following set of controls are available:
 
 ## Mandelbrot set
 
-![Fract-ol purple and yellow striped Mandelbrot by mcombeau](https://github.com/mcombeau/fract-ol/blob/main/screenshots/Fractol-Mandelbrot-2.png)
-![Fract-ol red bllue and green striped Mandelbrot by mcombeau](https://github.com/mcombeau/fract-ol/blob/main/screenshots/Fractol-Mandelbrot-3.png)
+![Fract-ol purple and yellow striped Mandelbrot by mcombeau](https://github.com/revolveR99/Math-Fract_ol/blob/main/screenshots/Fractol-Mandelbrot-2.png)
+![Fract-ol red bllue and green striped Mandelbrot by mcombeau](https://github.com/revolveR99/Math-Fract_ol/blob/main/screenshots/Fractol-Mandelbrot-3.png)
 ![Fract-ol sun crest purple Mandelbrot by mcombeau](https://github.com/mcombeau/fract-ol/blob/main/screenshots/Fractol-Mandelbrot-4.png)
 
 ## Julia set
@@ -95,7 +95,7 @@ While Fractol is running, the following set of controls are available:
 
 ## Burning ship set
 
-![Fract-ol golden burning ship by mcombeau](https://github.com/mcombeau/fract-ol/blob/main/screenshots/Fractol-Burning-Ship.png)
+![Fract-ol golden burning ship by mcombeau](https://github.com/revolveR99/Math-Fract_ol/blob/main/screenshots/Fractol-Burning-Ship.png)
 
 ## Mandelbox set
 
